@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mmvergara/Desktop/code/data-visaulization-python/manim/media/videos/grow/1080p60/partial_movie_files/Growing/3977891868_3772311212_223132457.mp4'
+file 'file:C:/Users/mmvergara/Desktop/code/data-visaulization-python/manim/media/videos/grow/1080p60/partial_movie_files/Growing/2852726489_452871982_480623268.mp4'
+file 'file:C:/Users/mmvergara/Desktop/code/data-visaulization-python/manim/media/videos/grow/1080p60/partial_movie_files/Growing/2852726489_454730812_3764928559.mp4'
+file 'file:C:/Users/mmvergara/Desktop/code/data-visaulization-python/manim/media/videos/grow/1080p60/partial_movie_files/Growing/2852726489_3163910103_3466447104.mp4'
+file 'file:C:/Users/mmvergara/Desktop/code/data-visaulization-python/manim/media/videos/grow/1080p60/partial_movie_files/Growing/2852726489_656656400_1016936720.mp4'

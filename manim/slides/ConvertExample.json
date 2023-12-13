@@ -1,0 +1,87 @@
+{
+  "slides": [
+    {
+      "file": "slides\\files\\ConvertExample\\f5d77ba2e3d32d103c87352c55eea080e23300f4e14049636cc143a861bab462.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\f5d77ba2e3d32d103c87352c55eea080e23300f4e14049636cc143a861bab462_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\15297bd30f762a22f004610f463331b440dec6fc5874e180226fc6e7f20ec5d3.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\15297bd30f762a22f004610f463331b440dec6fc5874e180226fc6e7f20ec5d3_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\23e5987619bf2623c61bec21577679e0a6ff149f9e04b4412ec47e865871c3f7.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\23e5987619bf2623c61bec21577679e0a6ff149f9e04b4412ec47e865871c3f7_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\7863898d4e8ef7cb6cd06f4fadae4ba2ce422e7b233e2ca98a5246246885c0d7.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\7863898d4e8ef7cb6cd06f4fadae4ba2ce422e7b233e2ca98a5246246885c0d7_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\d283afed5c99ae2b673357ced9df2de3368337cc994de642e60c39ba1b4be20a.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\d283afed5c99ae2b673357ced9df2de3368337cc994de642e60c39ba1b4be20a_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\1e48ddc1b0fd2a14e979763f3b1d8444f998041b15051e0bab6192d17cdb0925.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\1e48ddc1b0fd2a14e979763f3b1d8444f998041b15051e0bab6192d17cdb0925_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\58e2c5befbfca29061c9e52ffe0e5ee93400b0a5f6a465d23bddf6d839d5a750.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\58e2c5befbfca29061c9e52ffe0e5ee93400b0a5f6a465d23bddf6d839d5a750_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\dbf6c791901e0a5b8cb8199ed5048321eccaa7185f2fdfe6e0e024e90c393809.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\dbf6c791901e0a5b8cb8199ed5048321eccaa7185f2fdfe6e0e024e90c393809_reversed.mp4",
+      "loop": false,
+      "auto_next": true
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\9742c5eceee2dc1e295aafab51d86401ac0446012b5102d11891bc2901128fb2.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\9742c5eceee2dc1e295aafab51d86401ac0446012b5102d11891bc2901128fb2_reversed.mp4",
+      "loop": true,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\49d90ceb95dd0badbdcf57e3ba6a78e442503691141d6114e633fbddd01c2162.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\49d90ceb95dd0badbdcf57e3ba6a78e442503691141d6114e633fbddd01c2162_reversed.mp4",
+      "loop": true,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\e0766437f8f3cbf202158f56bd39c809d4bdadb15c91c3a87497d79e5fa6dac0.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\e0766437f8f3cbf202158f56bd39c809d4bdadb15c91c3a87497d79e5fa6dac0_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\282b375dd76b80f43b40c26aa2321299b6eaafb5e74fb5bea597e9ab17270b52.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\282b375dd76b80f43b40c26aa2321299b6eaafb5e74fb5bea597e9ab17270b52_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\ConvertExample\\6b9b998e4578c8ec74af09c73c70686373611cc8e384472016914699c08e4699.mp4",
+      "rev_file": "slides\\files\\ConvertExample\\6b9b998e4578c8ec74af09c73c70686373611cc8e384472016914699c08e4699_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

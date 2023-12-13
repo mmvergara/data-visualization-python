@@ -1,0 +1,39 @@
+{
+  "slides": [
+    {
+      "file": "slides\\files\\Growing\\791acd0a394f8c315342324935ac67eacfd855b07eb673dfc324bc140dec73fd.mp4",
+      "rev_file": "slides\\files\\Growing\\791acd0a394f8c315342324935ac67eacfd855b07eb673dfc324bc140dec73fd_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\Growing\\d7f6ddef8c04c8146604f34023cb6f1e20d789069f19ae11a314b4c2613a53b4.mp4",
+      "rev_file": "slides\\files\\Growing\\d7f6ddef8c04c8146604f34023cb6f1e20d789069f19ae11a314b4c2613a53b4_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\Growing\\6fbb95a90c60568acbc6b807750d8403a3a311bd86219f8c2e2170aca1eb8c21.mp4",
+      "rev_file": "slides\\files\\Growing\\6fbb95a90c60568acbc6b807750d8403a3a311bd86219f8c2e2170aca1eb8c21_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\Growing\\6867c66afca66254cac42bc1469b68311e64f9ba220af6c911a6ac37c00e324f.mp4",
+      "rev_file": "slides\\files\\Growing\\6867c66afca66254cac42bc1469b68311e64f9ba220af6c911a6ac37c00e324f_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides\\files\\Growing\\ade86defb55ff842c79f10f3d013fedb328bd0d99d175ed452e134fb7f8dede9.mp4",
+      "rev_file": "slides\\files\\Growing\\ade86defb55ff842c79f10f3d013fedb328bd0d99d175ed452e134fb7f8dede9_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

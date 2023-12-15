@@ -1,6 +1,8 @@
 from manim import *
 from manim_slides import Slide
-class Growing(Slide):
+
+
+class Growing(Scene):
     def construct(self):
         square = Square()
         circle = Circle()
@@ -10,13 +12,15 @@ class Growing(Slide):
 
         VGroup(square, circle, triangle).set_x(0).arrange(buff=1.5).set_y(2)
         VGroup(arrow, star).move_to(DOWN).set_x(0).arrange(buff=1.5).set_y(-2)
-
-        self.play(GrowFromPoint(square, ORIGIN))
-        self.next_slide()
-        self.play(GrowFromCenter(circle))
-        self.next_slide()
-        self.play(GrowFromEdge(triangle, DOWN))
-        self.next_slide()
-        self.play(GrowArrow(arrow))
-        self.next_slide()
-        self.play(SpinInFromNothing(star))
+        ax = Axes(
+            x_range=[0, 5],
+            y_range=[0, 6],
+            x_axis_config={"numbers_to_include": [2, 3]},
+            tips=False,
+        )
+        self.add(ax)
+        self.play(GrowFromPoint(square, ORIGIN), Flash(square, flash_radius=1.5))
+        self.play(GrowFromCenter(circle), Flash(circle, flash_radius=1.5))
+        self.play(GrowFromEdge(triangle, DOWN), Flash(triangle, flash_radius=1.5))
+        self.play(GrowArrow(arrow), Flash(arrow, flash_radius=1.5))
+        self.play(SpinInFromNothing(star), Flash(star, flash_radius=1.5))

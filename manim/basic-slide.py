@@ -1,14 +1,11 @@
-# example.py
-
-from manim import *  # or: from manimlib import *
-
+from manim import *
 from manim_slides import Slide
-
 class ConvertExample(Slide):
     """WARNING: this example does not seem to work with ManimGL."""
 
     def construct(self):
         self.wait_time_between_slides = 0.1
+
         title = VGroup(
             Text("From Manim animations", t2c={"From": BLUE}),
             Text("to slides presentation", t2c={"to": BLUE}),
@@ -23,7 +20,7 @@ class ConvertExample(Slide):
         step_6 = Text("6. Open your presentation with Manim Slides")
 
         for step in [step_1, step_2, step_3, step_4, step_5, step_6]:
-            step.scale(1).to_corner(UL)
+            step.scale(0.5).to_corner(UL)
 
         step = step_1
 
@@ -188,7 +185,7 @@ class Example(Slide):
         self.remove(dot)
         self.add(square)
         self.next_slide()
-        self.play(Rotate(square, angle=PI / 4))
+        self.play(Rotate(square, angle=360))
         self.next_slide()
 
         learn_more_text = (
